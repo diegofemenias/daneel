@@ -3,7 +3,7 @@ export const Welcome: React.FC = () => (
     <h1 className="text-2xl font-bold mb-2">🤖 ¡Hola!, soy el profe</h1>
     <p>
       Soy un profesor universitario de Sistemas.  Podés usarme como apoyo a tus consultas académicas ya que fuí entrenado específicamente para ello. Lamentablemente no puedo responder consultas de otros temas
-      ya que no cuento con conocimientos fiables.  Si querés saber de otros temas, consultá a mi primo <a href="https://chat.openai.com" className="underline">ChatGPT</a>.
+      ya que no cuento con conocimientos fiables.  Si querés saber de otros temas, consultá a mi primo <a href="https://claude.ai/new" className="underline">Claude Sonnet</a>.
     </p>
   </div>
 );
