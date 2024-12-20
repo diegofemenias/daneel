@@ -61,11 +61,11 @@ export default function Index() {
                     </button>
                   ))}
                 </div>
-                <div className="flex justify-center">
+                <!--<div className="flex justify-center">
                   <p className="text-sm text-gray-500 mt-5">
 Creado por <a href="https://integrarte.uy">Integrarte Consultoría</a>
                   </p>
-                </div>
+                </div>-->
               </>
             ) : (
               chatHistory.map((chat, i) => (
